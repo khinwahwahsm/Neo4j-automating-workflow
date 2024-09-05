@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">A workflow consists of multiple steps, and each of them belongs to a person in charge. Once<br>the pic of a particular step is done, they will have to send an invitation to the pic of the next<br>step. The invited user will then come into the workflow to work on their respective steps. Now,<br>users have to type in the invited user’s email address manually - and our client is looking to<br>enhance this process. As a solution to increase efficiency, they would like to auto-fill the invitation text box with the email address of the suggested user. The project’s objective is to develop a model to suggest these users.</p>
+<p align="left">A workflow consists of multiple steps, and each of them belongs to a person in charge. Once the pic of a particular step is done, they will have to send an invitation to the pic of the next<br>step. The invited user will then come into the workflow to work on their respective steps. Now,<br>users have to type in the invited user’s email address manually - and our client is looking to<br>enhance this process. As a solution to increase efficiency, they would like to auto-fill the invitation text box with the email address of the suggested user. The project’s objective is to develop a model to suggest these users.</p>
 
 ###
