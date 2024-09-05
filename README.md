@@ -1,5 +1,4 @@
 # Neo4j-automating-workflow
-<h1 align="left">Automating workflow</h1>
 
 ###
 
